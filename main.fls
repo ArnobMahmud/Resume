@@ -212,12 +212,12 @@ INPUT .\Sections\Experience.tex
 INPUT .\Sections\Experience.tex
 INPUT Sections\Experience.tex
 INPUT C:\Users\user\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
-INPUT C:\Users\user\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT .\Sections\Projects.tex
 INPUT .\Sections\Projects.tex
 INPUT .\Sections\Projects.tex
 INPUT .\Sections\Projects.tex
 INPUT Sections\Projects.tex
+INPUT C:\Users\user\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT .\Sections\Language.tex
 INPUT .\Sections\Language.tex
 INPUT .\Sections\Language.tex
